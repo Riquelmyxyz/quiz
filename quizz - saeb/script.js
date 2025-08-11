@@ -137,11 +137,7 @@ const questions = {
                 question: "Considerando as diferenças entre resenhas e videorresenhas, leia as afirmativas a seguir. I Ambas se diferenciam pela forma de produção e divulgação do material. II. A única diferença da resenha em relação à videorresenha é ser produzida no formato escrito. III. As videorresenhas ganharam espaço após o crescimento do YouTube. Pode-se considerar verdadeiro o que está contido em",
                 options: ["I e III.", "II e III.", " I, apenas."," II, apenas.","todas as afirmativas.",],
                 correct: 0
-            },     {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },
+            },   
             
 
         ]
@@ -153,23 +149,23 @@ const questions = {
         matematica: [
             {
                 question: "Um número decimal foi escrito na forma fracionária 1/4.A representação percentual desse número é:",
-                options: ["400%", "25%", "4,16%","0,25%","",],
-                correct: 0
+                options: ["400%", "25%", "4,16%","0,25%",],
+                correct: 2
             },
             {
                 question: "Lorena elaborou uma atividade avaliativa de Geografia com 20 questões ao todo. Algumas dessas questões valiam 4 pontos e as outras, 8 pontos. O estudante que conseguir resolver corretamente todas as questões dessa atividade obtém uma pontuação máxima de 100 pontos. Quantas questões dessa atividade valiam 4 pontos?  ",
-                options: ["10", "12", "15","20","",],
+                options: ["10", "12", "15","20",],
                 correct: 0
             },
             {
                 question: "Durante um festival gastronômico de 5 dias, a organização anotou o número de visitantes por dia. Os registros foram os seguintes: Dia 1: 742 visitantes, Dia 2: 963 visitantes, Dia 3: 875 visitantes, Dia 4: 902 visitantes, Dia 5: 622 visitantes. A diferença entre o dia com maior número de visitantes e o dia com menor número foi de:",
-                options: ["253 pessoas", "340 pessoas", "361 pessoas","963 pessoas","",],
-                correct: 0
+                options: ["253 pessoas", "340 pessoas", "361 pessoas","963 pessoas",],
+                correct: 1
             },
             {
                 question: "Considere a seguinte sequência numérica: 1º termo: 7, 2º termo: 11, 3º termo: 15, 4º termo: 19 ... e assim por diante.Qual é a expressão algébrica que fornece cada termo dessa sequência em função da sua posição n?",
-                options: ["3n + 4", "4n + 3", "4n","7n","",],
-                correct: 0
+                options: ["3n + 4", "4n + 3", "4n","7n",],
+                correct: 1
             },
             {
                 question: "Considere a equação: y=2x+1. Essa é uma equação do 1º grau que representa uma reta crescente no plano cartesiano. Qual das alternativas a seguir melhor descreve o gráfico dessa equação?",
@@ -178,44 +174,40 @@ const questions = {
             },
             {
                 question: "Ítalo comeu 20 gramas de um pacote de biscoito. Ele observou que 5 gramas desse pacote de biscoito possuem o valor energético de 160 quilocalorias. Qual é o valor energético, em quilocaloria, dessa quantidade de biscoito que Ítalo comeu?  ",
-                options: ["640 quilocalorias.", " 480 quilocalorias.", "175 quilocalorias. ","160 quilocalorias.","",],
+                options: ["640 quilocalorias.", " 480 quilocalorias.", "175 quilocalorias. ","160 quilocalorias.",],
                 correct: 0
             },
             {
                 question: "Um ponto R está localizado em uma reta numérica entre os números 10 e 40. Essa reta está dividida em 30 partes iguais, e o ponto R está localizado exatamente na 17ª marca. Qual é o valor correspondente ao ponto R?",
-                options: ["13,4", "19,3", "22,4","31,7","",],
-                correct: 0
+                options: ["13,4", "19,3", "22,4","31,7",],
+                correct: 2
             },
             {
                 question: "Um professor de música dá aulas individuais de violão e de canto. Cada um de seus alunos de violão faz 2 aulas por semana. Na última semana, esse professor deu 28 aulas de canto, além das aulas de violão. No total, ele deu 50 aulas nessa semana. Na última semana, quantos alunos fizeram aulas de violão com esse professor? ",
-                options: ["11", "20", "22","39","",],
+                options: ["11", "20", "22","39",],
                 correct: 0
             },
             {
                 question: "Em uma empresa, o setor responsável pela contratação dos funcionários realizou um processo seletivo para contratar 9 funcionários. As idades dos novos funcionários são: 31, 21, 31, 21, 26, 30, 31, 31 e 30. Qual é a mediana das idades dos novos funcionários? ",
-                options: ["26", "28", "30","31","",],
-                correct: 0
+                options: ["26", "28", "30","31",],
+                correct: 2
             },
             {
                 question: "Diego e Denise estudam na mesma turma. Na última prova de matemática que fizeram, a nota de Diego foi igual a 3,4 pontos. Já a nota de Denise foi 2,5 vezes maior que a nota de Diego. Qual foi a nota de Denise nessa prova? ",
-                options: [" 2,5.", " 5,9.", " 8,3.","8,5.","",],
-                correct: 0
+                options: [" 2,5.", " 5,9.", " 8,3.","8,5.",],
+                correct: 3
             }, 
             {
                 question: "Rafaela possuía um plano de internet que disponibilizava 400 megabits por segundo (Mbps) de velocidade. Ela trocou seu plano por um novo que disponibiliza 60% a mais de velocidade. Qual é a velocidade, em megabits por segundo, disponibilizada nesse novo plano? ",
-                options: ["240 Mbps.", "460 Mbps.", "560 Mbps. ","640 Mbps.","",],
-                correct: 0
+                options: ["240 Mbps.", "460 Mbps.", "560 Mbps. ","640 Mbps.",],
+                correct: 3
             },  
             {
                 question: "Quatro pontos M, N, O e P estão representados em um plano cartesiano com as seguintes coordenadas: M = (3, 2), N = (2, 1), O = (1, 4), P = (0, 0)",
-                options: ["", "", "","","",],
-                correct: 0
+                options: ["M", "N", "0","P",],
+                correct: 1
             },  
-            {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },  
+           
 
         ],
         portugues: [
@@ -310,28 +302,7 @@ const questions = {
                 ],
                 correct: 2
             },
-            
-            {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },
-            {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },
-            {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },
-            {
-                question: "",
-                options: ["", "", "","","",],
-                correct: 0
-            },
-
+           
         ]
     }
     
